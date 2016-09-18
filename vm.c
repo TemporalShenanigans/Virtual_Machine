@@ -178,12 +178,12 @@ void cal() {
 void inc() {
 	
 }
-
+//Gabriela
 //JMP - Jumpt to M
 void jmp() {
 	
 }
-
+//Gabriela
 //JPC - Pop stack and jump to M if value is equal to 0
 void jpc() {
 	
